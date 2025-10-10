@@ -50,4 +50,4 @@ Some tech based skills...
 
 - 🚚 **Servers/Hosting** - AWS/Azure, Docker, Linux, Apache/Nginx, Networking, Vercel, Neon/Prisma, SQLite, PostgreSQL, MariaDB
 
-- 🎸 **Other (maybe) relevant stuff** - Audio engineering/production (Pro Tools, Logic, Ableton, Reaper, etc), Graphic Design (Photoshop, Affinity Suite), Video Production/Editing (Premiere Pro/After Effects, Final Cut Pro/Motion)
+- 🎸 **Other (vaguely) relevant stuff** - Audio engineering/production (Pro Tools, Logic, Ableton, Reaper, etc), Graphic Design (Photoshop, Affinity Suite), Video Production/Editing (Premiere Pro/After Effects, Final Cut Pro/Motion)
