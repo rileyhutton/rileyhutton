@@ -25,7 +25,7 @@ Actively seeking tech internships for Summer 2026!
 
 - 🖼️ [TM-Scoreboard](https://github.com/rileyhutton/tm-scoreboard) - Show-ready Taskmaster-style Scoreboard with seperate control interface and live heartrate streaming.
 
-- 🧨 [dynamic-NDI-content](https://rileyhutton.com/404) - Delivers live-updating audience-facing graphics over NDI, pulling event scheduling data from [ontime](https://github.com/cpvalente/ontime)
+- 🧨 [dynamic-NDI-content](https://github.com/rileyhutton/dynamic-NDI-content) - Delivers live-updating audience-facing graphics over NDI, pulling event scheduling data from [ontime](https://github.com/cpvalente/ontime)
 
 - ✅ [Telegram Server Status](https://github.com/rileyhutton/TS2) - a super simple python-based uptime monitor with telegram bot notification
 
@@ -34,7 +34,7 @@ Actively seeking tech internships for Summer 2026!
 
 - 🧾 [Receipt Snapper](https://github.com/rileyhutton/receipt-snapper) - Software Engineering Group Coursework - Expense tracking system developed for [Waterstons](https://www.waterstons.com/) with OCR and AI receipt data parsing. (python, django, react + MUI, azure)
 
-- 💿 [TrackSpk](https://rileyhutton.com/404) - Web Development Coursework - Social Media platform for rating and discussing music. (express, bootstrap)
+- 💿 [TrackSpk](https://github.com/rileyhutton/TrackSpk) - Web Development Coursework - Social Media platform for rating and discussing music. (express, bootstrap)
 
 ### 💻 Currently working on:  
 - A public-facing **lighting control platform** allowing crowd control of architectural lighting, with applications in fundraising
