@@ -2,8 +2,6 @@
 
 So far, I've been building web and embedded systems with a focus on live event technology, real‑time systems, and interactive hardware - but I'm open to broadening my experience and working with new technology.
 
-Actively seeking tech internships for Summer 2026!
-
 ## Links
 
 - 🛜 Website - [rileyhutton.com](https://rileyhutton.com)
