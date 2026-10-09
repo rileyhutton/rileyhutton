@@ -1,4 +1,4 @@
-## 👋 I’m **Riley Hutton**, a 3rd Year Computer Science MEng student at Durham University.
+## 👋 I’m **Riley Hutton**, a 4th Year Computer Science MEng student at Durham University.
 
 So far, I've been building web and embedded systems with a focus on live event technology, real‑time systems, and interactive hardware - but I'm open to broadening my experience and working with new technology.
 
@@ -15,6 +15,8 @@ So far, I've been building web and embedded systems with a focus on live event t
 ## Projects
 
 ### 🛴 Personal Projects
+
+- 🔦 RHFollow - (Closed source) C++/Qt Software allowing entertainment moving lights to be controlled as performer follow-spots. Used on real performances.
 
 - 🚂 [Pipeline of Peril](https://devpost.com/software/pipeline-of-peril) - DurHack 2024 - The software equivalent of a Rube Goldberg machine, and the world's most mindful email client. **🏆 Marshall Wace & Hackathons UK WINNER**
 - 🧍‍♂️ [Durcraft Virtual Attendees](https://devpost.com/software/durcraft-virtual-attendees) - DurHack 2023 - Allow virtual event attendees to feel the buzz of the real event, by augmenting real people into the digital world. **🏆 DurHack 2nd Place Overall**
